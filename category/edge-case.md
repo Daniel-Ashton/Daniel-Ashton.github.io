@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Edge Case
+title: Car radio project
 ---
 
 Sample category page. You need to create a page for each category.
