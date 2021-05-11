@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Edge Case: Nested and Mixed Lists"
+sidebar_link: true
 categories:
   - Edge Case
 tags:
