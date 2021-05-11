@@ -58,5 +58,4 @@ google_analytics: UA-100461102-1
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
 hydeout:
-  version:          4.2.0
   repo:             https://github.com/Daniel-Ashton
