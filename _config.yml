@@ -1,5 +1,5 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
-show_downloads: true
+title: Daniel Ashton's Projects
+description: A page to display and categorise projects by me.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
