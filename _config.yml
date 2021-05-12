@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Daniel Ashton
 tagline:          'A project website'
 description:      'This website is to document my personal projects'
-url:              https://fongandrew.github.io
+url:              https://daniel-ashton.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
