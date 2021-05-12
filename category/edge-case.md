@@ -3,25 +3,6 @@ layout: category
 title: Car radio project
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+This project, my first project, details the creation of a car radio for my Skoda Octavia as the one that is currently in there I find outdated. 
 
-```md
----
-layout: category
-title: My Category
----
-```
-
-Or ...
-
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
+This document will detail the steps I took in the design, simulation, testing and building of the product up until its completion.
