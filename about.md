@@ -9,6 +9,3 @@ sidebar_link: true
   I am a 21-year-old student currently studying an Electronic Engineering course, accredited by the Institution of Engineering and Technology (IET), at Bangor University. I will graduate with a masters specialised in Programmable Logic Controllers and Mobile Communication Systems.
   I enjoy solving problems in creative ways, where this has certainly assisted in my degree. Also, I have a curiosity for the inner workings of different items and processes to help give a broader understanding. I like to maintain productivity through the organisation of my goals and tasks.
 </p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
