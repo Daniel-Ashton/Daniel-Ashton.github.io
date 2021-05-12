@@ -3,6 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 ---
+<img src="53046646_2105960926150892_7133573819729444864_n.jpg" alt="Photo of me">
 
 <p class="message">
   Hey there! This page is created and maintained by myself, Daniel Ashton. I created this page as a way of displaying the projects I undertake and arranging them into a portfolio that I can proudly show to others.
